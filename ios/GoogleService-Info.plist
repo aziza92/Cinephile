@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>938783294634-0rtfp90btgihr8i32luu6c5df48v6hcq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.938783294634-0rtfp90btgihr8i32luu6c5df48v6hcq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBCCXhAk6GmXkS0GW0rDFFiYzI_ObQU6aw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>938783294634</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>cinephile</string>
+	<key>PROJECT_ID</key>
+	<string>cinephile-dba20</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cinephile-dba20.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:938783294634:ios:eb54e43350f9bf9cd57cd3</string>
+	<key>DATABASE_URL</key>
+	<string>https://cinephile-dba20.firebaseio.com</string>
+</dict>
+</plist>
